@@ -2608,10 +2608,10 @@
 		}
 
 		a.image:hover img {
-			-moz-transform: scale(1.075);
-			-webkit-transform: scale(1.075);
-			-ms-transform: scale(1.075);
-			transform: scale(1.075);
+			-moz-transform: scale(1.15);
+			-webkit-transform: scale(1.15);
+			-ms-transform: scale(1.15);
+			transform: scale(1.15);
 		}
 
 /* List */
@@ -3335,7 +3335,7 @@
 
 			.posts article .image img {
 				display: block;
-  	    width: 50%;
+  	    width: 60%;
         margin: auto;
         padding: 2em 0 2em 0;
 			}
