@@ -1,0 +1,8 @@
+---
+layout: page
+category: energy
+title: Сбор показаний с приборов учета
+brief: enean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
+images:
+- https://spreadsecurity.github.io/images/shodan/IoT.png
+---
