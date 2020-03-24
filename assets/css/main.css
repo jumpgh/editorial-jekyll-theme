@@ -3796,7 +3796,7 @@
 		display: -ms-flex;
 		display: flex;
 		border-bottom: solid 5px #f56a6a;
-		padding: 2em 0 1em 0;
+		padding: 2.2em 0 1em 0;
 		position: relative;
 	}
 
@@ -3812,7 +3812,7 @@
 			border-bottom: 0;
 			color: inherit;
 			font-family: "Roboto Slab", serif;
-			font-size: 1.125em;
+			font-size: 1.35em;
 		}
 
 		#header .icons {
@@ -3822,7 +3822,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#header {
-				padding-top: 2em;
+				padding-top: 1.8em;
 			}
 
 		}
