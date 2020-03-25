@@ -13,6 +13,11 @@ images:
 - "http://proxia.ru/images/stories/flexicontent/m_br-8_big.png"
 ---
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 ### Основные технические характеристики
 
 |Сетевой интерфейс||
