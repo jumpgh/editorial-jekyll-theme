@@ -6,7 +6,7 @@ title: Оборудование
 <!-- Section -->
 {%- for category in site.productCategories -%}
 <section>
-	<header class="major" id="{{category[0]}}">
+	<header class="major" id="{{ category[0] }}">
 		<h3>{{category[1].name}}</h3>
 		<p>{{category[1].description}}</p>
 	</header>
@@ -18,7 +18,7 @@ title: Оборудование
 			<h3>{{ product.model }}</h3>
 			<p>{{ product.brief }}</p>
 			<ul class="actions">
-				<li><a href="{{ product.url }}" class="button">подробнее</a></li>
+				<li><a href="{{ product.url | absolute_url }}" class="button">подробнее</a></li>
 			</ul>
 		</article>
 		{%- endfor -%}
