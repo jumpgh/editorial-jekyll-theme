@@ -10,7 +10,7 @@ description: "УСК-Л свободно-программируемый конт
 механизмами и использования в системах «умного дома». Контроллер может работать автономно при отсутствии связи с программным обеспечением верхнего уровня.
 Контроллер имеет возможность настройки через WEB-браузер, подключения широкого спектра устройств через USB порт, гибкой настройки сценариев обработки данных и управляющих воздействий."
 images: 
-- https://downloader.disk.yandex.ru/preview/6f5b63bb6029e447c67ed2b149392d094b0735bd98b3788c6c6c63bd87a8ad67/5e7ba6a5/5XLsjBnKUZgU6nQL-fVuxYj9pPaxLx4_nZtC2js0ZRGV0a5vamt-OD7on2177JEZfA6K4R3aP6dysc4vunhKxA==?uid=0&filename=УСК-Л_PNG.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1130000031522784&size=2048x2048
+- /assets/images/УСК-Л_PNG.png
 ---
 
 ### Основные технические характеристики
