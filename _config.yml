@@ -20,19 +20,6 @@ socials:
   twitter: https://twitter.com/ProgtechLPWAN
   vk: https://vk.com/sprutm
 
-
-# 500px_url:
-# facebook_url:
-# github_url: https://github.com/jumpgh/editorial-jekyll-theme
-# gitlab_url: https://gitlab.com/
-# googleplus_url: https://plus.google.com/
-# instagram_url: https://www.instagram.com/sprutm/
-# linkedin_url: https://www.linkedin.com/
-# pinterest_url:
-# slack_url:
-# twitter_url: https://twitter.com/ProgtechLPWAN
-# vk_url: https://vk.com/sprutm
-
 collections:
   products:
     output: true

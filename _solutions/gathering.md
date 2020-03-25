@@ -6,3 +6,24 @@ brief: enean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam fa
 images:
 - https://spreadsecurity.github.io/images/shodan/IoT.png
 ---
+
+<!-- Content -->
+<section>
+	<!-- Elements -->
+	<h2 id="elements">{{ page.model }}</h2>
+	<div class="row 200%">
+		<!-- solution description -->
+		<div class="6u 12u$(medium)">
+			<h3>enean ornare velit lacus, ac varius enim ullamcorper eu</h3>
+			<p>{{ page.brief }}</p>
+			<p>{{ page.description }}</p>
+		</div>
+		<!-- solution image -->
+		<div class="6u 12u$(medium)">
+			<div class="11u">
+				<span class="image fit"><img src="/assets/images/ussama-azam-tYAmjNqs6co-unsplash.jpg" alt="" /></span>
+			</div>
+		</div>
+	</div>
+	<hr />
+</section>

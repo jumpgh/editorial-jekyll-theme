@@ -18,7 +18,7 @@ title: Решения
 		</div>
 		<div class="10u">
 			<h4>{{ solution.title }}</h4>
-			<p>{{ solution.brief }}&nbsp;<span><a href="{{site.baseurl}}/{{solution.url}}">Подробно</a></span></p>
+			<p>{{ solution.brief }}&nbsp;<span><a href="{{solution.url}}">Подробно</a></span></p>
 		</div>
 	</div>
 	{%- endfor -%}

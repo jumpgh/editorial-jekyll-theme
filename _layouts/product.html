@@ -6,49 +6,50 @@
 -->
 <html>
 
-{% include head.html %}
+	{% include head.html %}
 
-<body>
+	<body>
+	  <!-- Wrapper -->
+	  <div id="wrapper">
+	  	<!-- Main -->
+	    <div id="main">
+	      <div class="inner">
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+	      	{% include header.html %}
 
-        <!-- Main -->
-        <div id="main">
-            <div class="inner">
+		      <!-- Content -->
+	        <section>
+	        	<!-- Elements -->
+						<h2 id="elements">{{ page.model }}</h2>
+						<div class="row 200%">
+							<!-- product description -->
+							<div class="6u 12u$(medium)">
+								<h3>Описание</h3>
+								<p>{{ page.brief }}</p>
+								<h3>Назначение</h3>
+								<p>{{ page.description }}</p>
+							</div>
+							<!-- product image -->
+							<div class="6u 12u$(medium)">
+								<div class="11u">
+									<span class="image fit"><img src="{{ page.images[0] }}" alt="" /></span>
+								</div>
+							</div>
+						</div>
+						<hr />
+						<!-- product specs -->
 
-                {% include header.html %}
+	        	{{ content }}
 
-                <!-- Content -->
-                <section>
-                	<!-- Elements -->
-									<h2 id="elements">{{ page.model }}</h2>
-									<div class="row 200%">
-										<div class="6u 12u$(medium)">
-											<h3>Описание</h3>
-											<p>{{ page.brief }}</p>
-											<h3>Назначение</h3>
-											<p>{{ page.description }}</p>
-										</div>
-										<div class="6u 12u$(medium)">
-											<div class="11u">
-												<span class="image fit"><img src="{{ page.images[0] }}" alt="" /></span>
-											</div>
-										</div>
-									</div>
-									<hr />
+	        </section>
+	      </div>
+	    </div>
 
-                	{{ content }}
+	    {% include sidebar.html %}
 
-              </div>
-          </div>
+	  </div>
 
-          {% include sidebar.html %}
+	  {% include footer.html %}
 
-      </div>
-
-      {% include footer.html %}
-
-</body>
-
+	</body>
 </html>

@@ -18,7 +18,7 @@ title: Оборудование
 			<h3>{{ product.model }}</h3>
 			<p>{{ product.brief }}</p>
 			<ul class="actions">
-				<li><a href="{{site.baseurl}}/{{ product.url }}" class="button">подробнее</a></li>
+				<li><a href="{{ product.url }}" class="button">подробнее</a></li>
 			</ul>
 		</article>
 		{%- endfor -%}
