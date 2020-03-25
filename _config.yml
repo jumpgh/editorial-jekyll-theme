@@ -4,7 +4,7 @@ title: Proxia
 subtitle: IoT platform, solutions & devices
 email: info@proxia.ru
 description: Proxia IoT platform, solutions & devices
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://jumpgh.github.io/editorial-jekyll-theme/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Лесная д.5, офис 101
