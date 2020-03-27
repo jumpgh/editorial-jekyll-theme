@@ -14,7 +14,7 @@ title: Оборудование
 		{% assign products = site.products | where: "category", category[0] %}
 		{%- for product in products -%}
 		<article>
-			<a href="#" class="image"><img src="{{ product.images[0] }}" alt="" /></a>
+			<a href="#" class="image"><img src="{{ product.images[0] | absolute_url }}" alt="" /></a>
 			<h3>{{ product.model }}</h3>
 			<p>{{ product.brief }}</p>
 			<ul class="actions">
