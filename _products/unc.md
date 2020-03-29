@@ -12,7 +12,7 @@ description: "Обмен информацией между универсаль�
 Контроллер имеет модульную конструкцию с возможностью подключения модулей расширения, в том числе и с гальванической развязкой в разных вариациях (GSM, RS-232, RS-485, RS-485 ISO).
 "
 images: 
-- "https://disk.yandex.ru/client/disk/Рисунки%20для%20сайта?idApp=client&dialog=slider&idDialog=%2Fdisk%2FРисунки%20для%20сайта%2Fusk3.png"
+- "https://3.downloader.disk.yandex.ru/preview/4de84879ba306a0669887bce9e5473e8a72be04c5b046264846537dcba8fa2f6/inf/OQFBiw4fLN1qGtw7i2INtakEKJ3AVKjZwkMJxgHl31m8ULT2uu2jSwpaBf9JarCUc_Jyaa2-O7hQ2sSHreM3fw%3D%3D?uid=1130000031733223&filename=usk3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&tknv=v2&size=1898x948"
 ---
 
 ### Основные технические характеристики
