@@ -4066,3 +4066,7 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+		.description {
+			text-align: justify;
+		}
