@@ -7,7 +7,7 @@ category:
 brief: "Датчик ДМ-1 предназначен для измерения значений параметров температуры и передачи данных через интерфейс RS-485 по протоколу Modbus RTU."
 description: "Датчик выполнен в стандартном корпусе дымового пожарного извещателя для удобства монтажа и последующего обслуживания. Датчик измеряет и выдает конечную величину параметра без необходимости пересчёта значений."
 images: 
-- "http://proxia.ru/images/stories/flexicontent/m_dm3_full.png"
+- "https://2.downloader.disk.yandex.ru/preview/de4ac44b0f7caaedfe631cad8bf33236bd1647b2a974f93f29857816d325de22/inf/KDaYmlrxms05SWlD9PBofJe2ilXlg_DhwTyBe7VJllqOx9JyMnHGM8-yg7ScUaROy-b8Cj4DfoTG2mWHBTht2g%3D%3D?uid=1130000031733223&filename=DM-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&tknv=v2&size=1898x948"
 ---
 
 ## Основные технические характеристики
@@ -28,3 +28,5 @@ images:
 | Вибрации частотой	| 5-25 Гц. |
 | Амплитудой смещения |	до 0,1 мм. |
 | Относительная влажность воздуха |	до 90% при температуре 35 °С |
+
+[Скачать руководство по эксплуатации](https://yadi.sk/i/zUW50AjgiND78w)
