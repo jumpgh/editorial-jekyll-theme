@@ -16,7 +16,7 @@ title: Оборудование
 		<article>
 			<a href="#" class="image"><img src="{{ product.images[0] | absolute_url }}" alt="" /></a>
 			<h3>{{ product.model }}</h3>
-			<p>{{ product.brief }}</p>
+			<p class="description">{{ product.brief }}</p>
 			<ul class="actions">
 				<li><a href="{{ product.url | absolute_url }}" class="button">подробнее</a></li>
 			</ul>
