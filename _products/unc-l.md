@@ -9,7 +9,7 @@ brief: "Универсальный сетевой контроллер УСК-Л
 description: "УСК-Л представляет собой электронное устройство на базе микрокомпьютера промышленного исполнения Raspberry Compute Module CM3. УСК-Л свободно-программируемый контроллер с открытым ПО под управлением ОС Linux. Контроллер может работать автономно при отсутствии связи с программным обеспечением верхнего уровня. Контроллер имеет возможность настройки через WEB-браузер, подключения широкого спектра устройств через USB порт, гибкой настройки сценариев обработки данных и управляющих воздействий."
 
 images: 
-- "https://2.downloader.disk.yandex.ru/preview/5ebbfe879591ea4c58f2029eb6395a5d6b93fedf106d430f2cdd5359abc04131/inf/sXkkJUDDZ-2_JwEA5TsR4Ag9y257m9Vvpk56lBgwODx-02eUDfMR30ov45c-e_D1Baj5CV9GGhxOs52MEsHPQg%3D%3D?uid=1130000031733223&filename=USK-L.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&tknv=v2&size=1898x948"
+- "https://downloader.disk.yandex.ru/preview/1443cfeb23141b2456aeea507c428c07ca815b0026163a3f5a5fc5191c90108f/5e834a06/xvuP7-AEBH7Td5LxS8-2V94T4VJ-ZxryWz__fMf6hSkIlCvcADGlwOL0zWlVIzwQeN8KgfJytxNJgrR9javRYw==?uid=0&filename=800_600.PSD.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1130000031733223&size=2048x2048"
 ---
 
 ### Основные технические характеристики
