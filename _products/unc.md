@@ -14,7 +14,7 @@ brief: "Универсальный сетевой контроллер УСК-M 
 description: "Обмен информацией между универсальным сетевым контроллером и другими программно-аппаратными компонентами системы мониторинга и управления производится посредством сети передачи данных на базе технологий Ethernet, GPRS. Сетевой интерфейс контроллера реализован на базе микросхемы KS8721, которая соответствует стандарту Ethernet 100Base-Т. Обмен данными производится поверх протокола UDP, передаваемые данные шифруются по стандарту AES 128 битным ключом. Резервным каналом контроллера является GPRS, который выполнен на базе GSM модуля SIM800. Обмен данными по этому каналу осуществляется поверх протокола TCP, передаваемые данные шифруются по стандарту AES128. Контроллер имеет модульную конструкцию с возможностью подключения модулей расширения, в том числе и с гальванической развязкой в разных вариациях (GSM, RS-232, RS-485, RS-485 ISO)."
 # список изображений устройства (первая картинка отображается в списке устройств)
 images: 
-- "https://2.downloader.disk.yandex.ru/preview/eb765efca7584c8a78de0fa3efe5020a2125ace5818e4a8bb67413f3e5eb8242/inf/VNJPg--HlUuc5nbevRjA2HUsBmbPPeHpCn2qFJVtOEK_7Q_2woI4p6riWryfrNV0zHlBvyoQ_ifIOaJglxzvmQ%3D%3D?uid=1130000031733223&filename=USK-M.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&tknv=v2&size=1898x948"
+- "https://downloader.disk.yandex.ru/preview/3a10659652723a569bc1258383bd7e8cc7ada49ef01c1bc46af7714d8a6ae90e/5e8349be/K8nYypIsvquImAnZd6PUHcn9UYgRsOfYbnwqOTuI-vwS_m9OvUCoTMu529eNIVkauaTFK4WqNewUyX_lB1gmWg==?uid=0&filename=10+800_600.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1130000031733223&size=2048x2048"
 ---
 
 ### Основные технические характеристики
