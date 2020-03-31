@@ -6,7 +6,7 @@ image:
 category:
 - lorawan
 - NB-IoT
-brief: "Модуль предназначен для контроля трубопроводов, оснащенных системой оперативного дистанционного контроля (ОДК).
+brief: "Модуль предназначен для контроля трубопроводов, оснащенных системой оперативного дистанционного контроля (ОДК)."
 description: "Модуль имеет автономное питание от батарей и позволяет определить обрыв сигнальных проводников, намокание изоляции или замыкание сигнального провода с трубой и передать эту информацию на сервер. Модуль может быть выполнен в исполнении LoRaWAN или NB-IoT."
 images: 
 - "https://downloader.disk.yandex.ru/preview/1c418a7c234b8f0b46298decea81fdc875dced8127e2863081dd629aa4271d18/5e833bc3/TYSJikMC6dX_ItyBiTVtAzZvGe2qybc4ZFw7XmIeF2mPefrNv-fPIyTGW3GjCNP3AS-4QAdFwOSiBkQ3CIIO-w==?uid=0&filename=SODK.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1130000031733223&size=2048x2048"
