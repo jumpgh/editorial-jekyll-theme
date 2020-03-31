@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-diamond"></span>
 			<div class="content">
 				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p >Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
@@ -48,7 +48,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/louis-reed-53jnUK5LqEY-unsplash.jpg" alt="" /></a>
 			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
@@ -56,7 +56,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/louis-reed-zDxlNcdUzxk-unsplash.jpg" alt="" /></a>
 			<h3>Nulla amet dolore</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
@@ -64,7 +64,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/martin-adams-a_PDPUPuNZ8-unsplash.jpg" alt="" /></a>
 			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
@@ -72,7 +72,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/ussama-azam-tYAmjNqs6co-unsplash.jpg" alt="" /></a>
 			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
@@ -80,7 +80,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/zan-wGqz5YSqsfk-unsplash.jpg" alt="" /></a>
 			<h3>Feugiat lorem aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
@@ -88,7 +88,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/zhang-kaiyv-Ckgyk1iIZx8-unsplash.jpg" alt="" /></a>
 			<h3>Amet varius aliquam</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p class="description">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
