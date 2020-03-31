@@ -25,7 +25,7 @@ images:
 		<!-- solution image -->
 		<div class="6u 12u$(medium)">
 			<div class="11u">
-				<span class="image fit"><img src="{{ page.images[1] }}" alt="" /></span>
+				<span class="image fit"><img src="{{ page.images[1] | absolute_url }}" alt="" /></span>
 			</div>
 		</div>
 	</div>

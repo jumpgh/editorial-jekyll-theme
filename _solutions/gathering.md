@@ -5,6 +5,7 @@ title: Сбор показаний с приборов учета
 brief: enean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
 images:
 - https://spreadsecurity.github.io/images/shodan/IoT.png
+- /assets/images/ussama-azam-tYAmjNqs6co-unsplash.jpg
 ---
 
 <!-- Content -->
@@ -21,7 +22,7 @@ images:
 		<!-- solution image -->
 		<div class="6u 12u$(medium)">
 			<div class="11u">
-				<span class="image fit"><img src="/assets/images/ussama-azam-tYAmjNqs6co-unsplash.jpg" alt="" /></span>
+				<span class="image fit"><img src="{{ page.images[1] | absolute_url }}" alt="" /></span>
 			</div>
 		</div>
 	</div>
