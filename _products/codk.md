@@ -1,14 +1,14 @@
 ---
 layout: product
 vendor: ПРОКСИА
-model: СОДК
+model:  РМ-868R
 image:
 category 1:
 - lorawan
 category 2:
 - NB-IoT
-brief: "Модуль предназначен для контроля трубопроводов, оснащенных системой оперативного дистанционного контроля (ОДК)."
-description: "Модуль имеет автономное питание от батарей и позволяет определить обрыв сигнальных проводников, намокание изоляции или замыкание сигнального провода с трубой и передать эту информацию на сервер. Модуль может быть выполнен в исполнении LoRaWAN или NB-IoT."
+brief: "Модуль РМ-868R предназначен для контроля трубопроводов, оснащенных системой оперативного дистанционного контроля (ОДК)."
+description: "Модуль РМ-868R имеет автономное питание от батарей и позволяет определить обрыв сигнальных проводников, намокание изоляции или замыкание сигнального провода с трубой и передать эту информацию на сервер. Модуль может быть выполнен в исполнении LoRaWAN или NB-IoT."
 images: 
 - "https://s143myt.storage.yandex.net/rdisk/63cfa964ecc48d7206dd4183f13bb64ddc25c1a83b8528520fa8dc4f3f55d0f2/5e836eb0/fKqInKw3d7bLFOeFnMGnhD4qhvaJoZ5du0JYDdpiPDpLwuoJNhIUkgzHsU9euo4xMf5vSXbkrzxY-LDI6FIb0HZVppX-OCB0Dax1nhRDzymr8npumZHI4midPdWhecNq?uid=1130000031733223&filename=sodk.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&fsize=137250&hid=3d27dfe58036c528a129f34502803baf&media_type=image&tknv=v2&etag=7a7f7b749094204887525b38b9b87da8&rtoken=wVMFhlQljFm9&force_default=yes&ycrid=na-9e4cb5a5914f56adf820a6346ac191fa-downloader18f&ts=5a228ffb50c00&s=8ba3ae6a46f10e4c6961d3f80f6296418226697adb80adeff0f23a9a105eb9f8&pb=U2FsdGVkX18OyFfg1-I0IUdAd4chRUWiutK86GZiVTt5vgkmi65JQ5U4ME22ECWIyO3KJ9NEoO1Bdeu-iXrvAClyehrHrIxaprtjN82833ELG_KL8dyowBKKESP-fyrH"
 ---
