@@ -1,7 +1,7 @@
 ---
 layout: product
 vendor: ПРОКСИА
-model:  УНО-2
+model:  УСПД УНО-2
 image:
 category: 
 - asuno
