@@ -8,7 +8,7 @@ category:
 brief: "Счетчик импульсов СИ-2 предназначен для подключения импульсных приборов учета (до 2 шт.), первичной обработки, преобразования информации, хранения архивных данных по счетным входам в составе систем диспетчеризации."
 description: "Счётчик импульсов работает от встроенного литиевого элемента питания. Счётчик импульсов позволяет хранить во внутреннем архиве накопленное количество импульсов, а также пересчитанные показания приборов учёта с учётом веса импульсов. Регистрация импульсов происходит также во время отсутствия гарантированного питания (5В). Счётчик импульсов имеет 2 счётных входа с последующей возможностью считывания через протокол RS485 или RS232. Протокол обмена с счетчиком импульсов предоставляется по запросу)."
 images: 
-- "https://s112sas.storage.yandex.net/rdisk/72a0da45a97424d9cb39b2c5636415a35b5f0a86d25d1ebba36d6875b553fe88/5e837b58/fKqInKw3d7bLFOeFnMGnhD4qhvaJoZ5du0JYDdpiPDo8-Pvx4Cfq2fuIqL6D7j62N_FXkgCqBkSBNvin3iy5F7SUL-pAAEHCzZss9LzDxlyr8npumZHI4midPdWhecNq?uid=1130000031733223&filename=ci-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&fsize=259175&hid=fecd93db551f4a113bbc77a9e03edf7a&media_type=image&tknv=v2&etag=29863147317e664c0fa3775eaaf841cd&rtoken=CD6oFNjaM9fX&force_default=yes&ycrid=na-1a0399f6a9e00dd34091286d746002df-downloader16h&ts=5a229c0d38600&s=c8eb2eaca8e610070934aea6f49c84c2e8387d192f3d996a33f15c878ddf0883&pb=U2FsdGVkX1_Hh0Lf0Q2gTgLDeFmIHuqmTceMFsuqJXGZvkULSjpyfHMeMp6HQLNXMGGLhACqFp1sZ9FjmH080tEIjpCN7GPONV9FaIJAJP0Wnyp3vHpZeZ66b72X7MMY"
+- /assets/images/ci-2.png
 ---
 
 ### Основные технические характеристики

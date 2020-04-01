@@ -8,7 +8,7 @@ category:
 brief: "УСПД УНО-2 предназначено для управления включением и отключением наружного освещения, сбора и передачи данных с электросчетчиков, контроля работы электромеханики силового шкафа и защитных устройств, путем контроля наличия напряжения.  Работает в составе комплекса ПТК «СПРУТ-М».  Монтируется в силовых шкафах управления освещением."
 description: "Для обеспечения связи УСПД УНО-2 с программным комплексом и диспетчерской применяются интерфейсы Ethernet, GPRS. Обмен производится зашифрованными пакетами по стандарту AES 128. Реализованы режимы работы: Автоматический, Ручной (управление из диспетчерской) / Ручной (местное управление). Более полную информацию об устройстве, можно узнать из документа «Руководство по эксплуатации."
 images: 
-- "https://s178iva.storage.yandex.net/rdisk/0c1bd76e13d214bf3adc579f432a2caa3ab96cee7691b22506e06f8044e1345f/5e83750b/fKqInKw3d7bLFOeFnMGnhH1etAZHTcoPpYOrONkvls6BuLEeOH0kQbPRHUUUhujDK7tgT0N541y3E0xKBdAA7hmU9WI3nMeQ7lihAG_XZhqr8npumZHI4midPdWhecNq?uid=1130000031733223&filename=uno-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000031733223&fsize=457971&hid=ef6eced100e825dcc87afb3c26e4b3b9&media_type=image&tknv=v2&etag=e8bb74d2704865ab3556a95fc8e8175a&rtoken=WbI8wqbF9uur&force_default=yes&ycrid=na-ec6219aaae1f5c9d49388cbf5f55a8fd-downloader10e&ts=5a22960af18c0&s=33561322e740ddb7d76078136b42ead0cea600445826dd0fcba3e6d1fda85238&pb=U2FsdGVkX1-HZ69TrITXu_wYVIa8t0F5iUNKYUbSoWd5FTV53KY6T-T5r-q6W2hRWSPZJ7Gz6-6AIuI2S-hV6n6atMsh44bjGCglR4DDAMMu42hJF5BErNVFqVhC6F2Q"
+- /assets/images/uno-2.png
 ---
 
 ### Основные технические характеристики
