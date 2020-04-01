@@ -10,6 +10,8 @@ description: "УСК-Л представляет собой электронно
 
 images: 
 - /assets/images/unc-l.png
+- /assets/images/unc-m.png
+- /assets/images/br-8.png
 ---
 
 ### Основные технические характеристики

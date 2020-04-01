@@ -1,8 +1,8 @@
 # боковое меню настраивается в /includes/sidebar.html с шаблонированием по productCategories и solutionCategories
 # Site settings
 title: Proxia
-subtitle: IoT platform, solutions & devices
-email: info@proxia.ru
+subtitle: IoT solutions & devices
+email: sale@proxia.ru
 description: Proxia IoT platform, solutions & devices
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://jumpgh.github.io" # the base hostname & protocol for your site

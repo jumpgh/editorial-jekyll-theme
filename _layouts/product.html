@@ -8,7 +8,13 @@
 
 	{% include head.html %}
 
+	<style>
+	.mySlides {display:none;}
+	</style>
+
 	<body>
+		<div id="myModal" class="modal">
+		</div>
 	  <!-- Wrapper -->
 	  <div id="wrapper">
 	  	<!-- Main -->
@@ -31,9 +37,24 @@
 							</div>
 							<!-- product image -->
 							<div class="6u 12u$(medium)">
-								<div class="11u">
-									<span class="image fit"><img src="{{ page.images[0] | absolute_url }}" alt="" /></span>
+								<div class="row">
+									{%- for image in page.images -%}
+								  <img class="mySlides" src="{{ image | absolute_url }}" style="width:100%">
+								  {%- endfor -%}
 								</div>
+								<div class="row">
+									<ul class="actions fit">
+										<li>
+											<button href="#" class="button fit" onclick="plusDivs(-1)">&#10095;</button>
+										</li>
+										<li>
+											<button href="#" class="button fit" onclick="plusDivs(1)">&#10094;</button>
+										</li>
+									</ul>
+									  <!--
+										<span class="image fit"><img src="{{ page.images[0] | absolute_url }}" alt="" /></span>
+										-->
+  							</div>
 							</div>
 						</div>
 						<hr />
@@ -52,4 +73,24 @@
 	  {% include footer.html %}
 
 	</body>
+
+	<script>
+	var slideIndex = 1;
+	showDivs(slideIndex);
+
+	function plusDivs(n) {
+	  showDivs(slideIndex += n);
+	}
+
+	function showDivs(n) {
+	  var i;
+	  var x = document.getElementsByClassName("mySlides");
+	  if (n > x.length) {slideIndex = 1}
+	  if (n < 1) {slideIndex = x.length}
+	  for (i = 0; i < x.length; i++) {
+	    x[i].style.display = "none";  
+	  }
+	  x[slideIndex-1].style.display = "block";  
+	}
+	</script>
 </html>
