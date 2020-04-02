@@ -5,7 +5,8 @@ title: IoT платформа
 <h2 id="content">IoT платформа</h2>
 <div class="row">
 	<div class="8u 6u$(medium)">
-		<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.</p>
+		<p class="description"> Под интернетом вещей в общем случае подразумеваются глобальная концепция взаимодействия и обмена информацией различными устройствами, машинами и механизмами, информационными системами посредством Интернета. В единое информационное пространство объединяются устройства телеметрии, управления промышленными и инженерными системами или оборудованием.</p>
+		<p class="description">IoT платформа – программное обеспечение, предназначенное для подключения интернет вещей (датчиков, контроллеров и других устройств) к облаку и удаленного доступа к ним. Представляет собой промежуточный уровень между аппаратным уровнем (уровнем сенсоров) и прикладным. (дернул с iot.ru, надо переписать)</p>
 	</div>
 	<div class="4u 6u$(medium)">
 		<span class="image fit"><img src="https://www.avsystem.com/media/avssite/news/what-is-iot-platform_TITLE-01.png" alt="" /></span>
@@ -14,15 +15,15 @@ title: IoT платформа
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Производительность</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+		<p class="description">Реализованные архитектурные решения позволяют по мере роста нагрузоки горизонтально масштабировать платформу без доработок или остановки работы. Кластеризация всех компонент обеспечивает  производительность 10K+ транзакций в секунду.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Отказоустойчивость</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+		<p>Избыточность и резервирование всех компонент обеспечивают высокую доступность платформы и автоматическое восстановление при авариях и сбоях.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Гибкость</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+		<p class="description">Платформа гибко адаптируется под формат бизнес объектов, структуру сообщений от устройств или правила их обработки, позволяя удовлетворить все требования бизнес-заказчика.</p>
 	</div>
 </div>
 <hr />
@@ -32,14 +33,19 @@ title: IoT платформа
 	</div>
 	<div class="6u 12u$(medium)">
 		<h2>Библиотека опроса устройств</h2>
-		<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.</p>
+		<p class="description">Библиотека предназначена для получения текущих и архивных параметров и показателей различных приборов учета по стандартизованному протоколу MQTT, имеет расширяемую модульную структуру и обеспечивает взаимодействие с разнородными приборами учета через различные промежуточные устройства сбора и передачи данных (УСПД) и каналы связи.</p>
+		<p class="description">Библиотека имеет модульную расширяемую архитектуру, обеспечивающую поддержку новых УСПД, приборов учета или измеряемых параметров.</p>
+		<p class="description">Библиотека содержит более 200 модификаций драйверов опроса наиболее часто используемых устройств (тепловычислители, электросчетчики, универсальные вычислители).</p>
 	</div>
 </div>
 <hr />
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<h2>Независимость от транспортного уровня</h2>
-		<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.</p>
+		<p class="description">LoRaWAN</p>
+		<p class="description">Ethernet</p>
+		<p class="description">NB-IoT</p>
+		<p class="description">GSM/3G/4G</p>
 	</div>
 	<div class="6u 12u$(medium)">
 		<span class="image fit"><img src="https://i.pinimg.com/originals/4b/d4/56/4bd4561ac6c4690d414b237cf08f1cc1.jpg" alt="" /></span>
