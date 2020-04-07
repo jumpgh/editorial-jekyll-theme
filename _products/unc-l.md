@@ -73,4 +73,5 @@ images:
 ### Загрузки
 
 [Скачать руководство по эксплуатации](https://yadi.sk/i/vMf-HhOa7fzZQQ)
+
 [Скачать Сертификаты](https://yadi.sk/i/A1a4zpT30Jffmw)
