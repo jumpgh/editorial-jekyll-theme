@@ -74,3 +74,5 @@ images:
 
 [Скачать руководство по эксплуатации](https://yadi.sk/i/vMf-HhOa7fzZQQ)
 
+images: 
+- /assets/images/unc-l.png
