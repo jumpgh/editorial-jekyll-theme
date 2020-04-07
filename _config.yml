@@ -32,7 +32,7 @@ collections:
 productCategories:
   controllers:
     name: Контроллеры
-    description: Универсальный сетевой контроллер используется в качестве УСПД для сбора и обработки информации, а также управления различными исполнительными устройствами в системах АСКУЭ, а также в системах «умного дома».
+    description: Универсальный сетевой контроллер используется в качестве УСПД для сбора и обработки информации, а также управления различными исполнительными устройствами в системах энергоменеджмента, а также в системах «умного дома».
   modules:
     name: Модули для контроллеров
     description: enean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
